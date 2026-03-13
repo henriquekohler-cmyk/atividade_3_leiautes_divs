@@ -1,0 +1,29 @@
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #c7c0ce;
+}
+
+.fundo {
+    background-color: #0e1fc0;
+    width: 660px;
+    margin: 0 auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.amarelo {
+    background-color: rgb(216, 240, 2);
+    padding: 80px;
+    margin: 10px;
+}
+
+.alongar {
+    padding-right: 280px;
+}
